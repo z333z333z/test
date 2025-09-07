@@ -1,0 +1,5 @@
+title: Вторая сцена
+subtitle: Вы должны быть что-то
+new-page: true
+tags: two
+view-if: Player = "soc"
