@@ -2,5 +2,6 @@ title: Nhtnmz сцена
 subtitle: Вы должны быть что-то
 new-page: true
 tags: party
+view-if: know = "soc"
 
 asdads

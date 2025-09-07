@@ -3,3 +3,11 @@ new-page: true
 tags: party
 
 фывфвфыв
+
+- @work: Сделай что-нибудь
+
+@work
+view-if: know != "soc"
+on-arrival: know = "soc"
+
+**Блф**
