@@ -1,5 +1,5 @@
 title: Вторая сцена
 subtitle: Вы должны быть что-то
 new-page: true
-tags: two
+tags: tri
 view-if: Player = "soc"
