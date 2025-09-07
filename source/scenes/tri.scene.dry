@@ -2,4 +2,4 @@ title: Nhtnmz сцена
 subtitle: Вы должны быть что-то
 new-page: true
 tags: tri
-view-if: Player = "soc"
+view-if: know_of_map = "soc"
